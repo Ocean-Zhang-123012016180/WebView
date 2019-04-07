@@ -22,6 +22,9 @@
 5.实验四 创建actionMode的上下文菜单
 ![Image text](https://github.com/Ocean-Zhang-123012016180/UICompetent/blob/master/image/actionmode.png)
 
+6.遇到的问题：
+本人已经完成实验三的项目，然后push 到GitHub后，上传图片并编写完readme后，发现源文件的代码仍然是上一次实验的代码，对于此次出现的问题，本人正在百度查找办法解决，由于临近提交时间，只得先上传实验截图，如下：
+![Image text](https://github.com/Ocean-Zhang-123012016180/UICompetent/blob/master/image/notice.png)
 
 
 
