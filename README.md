@@ -14,10 +14,10 @@
 ![Image text](https://github.com/Ocean-Zhang-123012016180/UICompetent/blob/master/image/menutest_main.png)
 
 字体变化界面选择16号字体
-![Image text](https://github.com/Ocean-Zhang-123012016180/UICompetent/blob/master/image/test_font.png)
+![Image text](https://github.com/Ocean-Zhang-123012016180/UICompetent/blob/master/image/menutest_font.png)
 
 字体颜色变化界面 选择蓝色
-![Image text](https://github.com/Ocean-Zhang-123012016180/UICompetent/blob/master/image/test_color.png)
+![Image text](https://github.com/Ocean-Zhang-123012016180/UICompetent/blob/master/image/menutest_color.png)
 
 5.实验四 创建actionMode的上下文菜单
 ![Image text](https://github.com/Ocean-Zhang-123012016180/UICompetent/blob/master/image/actionmode.png)
